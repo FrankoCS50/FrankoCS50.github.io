@@ -1,2 +1,2 @@
 # FrankoCS50.github.io
-My Website.
+My Website
