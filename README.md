@@ -1,3 +1,4 @@
 # FrankoCS50.github.io
 
-## Franko Link Tree Website
+### I create my personal Link Tree Website
+### using HTML, Css and abit of Javascript
