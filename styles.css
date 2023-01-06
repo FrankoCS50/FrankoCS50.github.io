@@ -22,7 +22,7 @@ body {
 h1 {
   color: rgb(82, 59, 26);
   font-size: 20px;
-  margin-bottom: 30px;
+  margin: 20px 0 20px 0;
 }
 
 a {
@@ -79,6 +79,21 @@ svg {
   stroke: blanchedalmond;
 }
 
+.end {
+  font-size: smaller;
+  color: rgb(82, 59, 26);
+  margin-top: 10px;
+  text-align: center;
+}
+
+.end a {
+  color: rgb(82, 59, 26);
+}
+
+.end i {
+  color: red;
+}
+
 .collapsible {
   background-color: rgb(82, 59, 26);
   color: blanchedalmond;
@@ -114,14 +129,12 @@ svg {
 .header-certificates {
   display: flex;
   justify-content: flex-start;
-  background-color: rgb(82, 59, 26);
-  color: blanchedalmond;
   margin: 5px;
   font-size: 20px;
 }
 
 .nav-certificates a {
-  color: blanchedalmond;
+  color: rgb(82, 59, 26);
 }
 
 .title-certificates {
